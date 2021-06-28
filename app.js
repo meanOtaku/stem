@@ -33,28 +33,28 @@ app.get("/TakeOff",function(req, res){
     res.render("TakeOff");
 })
 app.get("/Java",function(req, res){
-    console.log("/about");
-    res.render("about");
+    console.log("/Java");
+    res.render("Java");
 })
 app.get("/PathAhead",function(req, res){
-    console.log("/about");
-    res.render("about");
+    console.log("/PathAhead");
+    res.render("PathAhead");
 })
 app.get("/DataScience",function(req, res){
-    console.log("/about");
-    res.render("about");
+    console.log("/DataScience");
+    res.render("DataScience");
 })
 app.get("/WebDevelopment",function(req, res){
-    console.log("/about");
-    res.render("about");
+    console.log("/WebDevelopment");
+    res.render("WebDevelopment");
 })
 app.get("/iOSDevelopment",function(req, res){
-    console.log("/about");
-    res.render("about");
+    console.log("/iOSDevelopment");
+    res.render("iOSDevelopment");
 })
 app.get("/Beekeeping",function(req, res){
-    console.log("/about");
-    res.render("about");
+    console.log("/Beekeeping");
+    res.render("Beekeeping");
 })
 
 app.listen(3000, function(){
