@@ -1,9 +1,9 @@
 # stem
 run 
 ```
-> npm install
+npm install
 ```
 then
 ```
-> node app.js
+node app.js
 ```
