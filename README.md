@@ -1,2 +1,4 @@
 # stem
-run #npm install
+run 
+> npm install
+> node app.js
